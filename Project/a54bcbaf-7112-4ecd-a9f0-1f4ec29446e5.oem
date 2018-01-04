@@ -247,7 +247,7 @@
           </Entity>
         </ChildEntities>
       </Entity>
-      <Entity type="Device" subtype="NA" id="71b0a55e-eb29-47ca-8ae5-8a4b3b11b247" name="HMI_NA5_0" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="ce3b14d7-a2b1-488e-a7bd-a3444e2a3e30" DN="HMI_NA5_0" hash="d0a12769907db337cbd2874fe29ab0d9" DHS="b447284416adc35af15c15abb063dd14" TH="017a08ebec32ce2a9ddd260cfcd6897e">
+      <Entity type="Device" subtype="NA" id="71b0a55e-eb29-47ca-8ae5-8a4b3b11b247" name="HMI_NA5_0" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="ce3b14d7-a2b1-488e-a7bd-a3444e2a3e30" DN="HMI_NA5_0" hash="d0a12769907db337cbd2874fe29ab0d9" DHS="1764f1920875b9f1d4bff6c91df15604" TH="55cbe8bc7a3c3cf9bc323bb6b5fe4b3f">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="201203d1-23e9-4b70-a065-663edc25b659" name="Watch" version="0" dateCreated="01/04/2018 13:12:23" trackingId="6da8f5c6-e8e6-450f-860e-84d3d289f172">
@@ -264,7 +264,7 @@
               <Entity type="InternalDeviceReferences" subtype="" id="e2d43663-69d1-4283-bf1e-e1bdaf248957" name="Internal Devices" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="dbc8724c-bf00-4b40-b301-77f2a82d8d9f" DN="Internal Devices">
                 <AccessInfos />
                 <ChildEntities>
-                  <Entity type="DeviceReference" subtype="InternalDevice" id="000e19bf-b261-475e-bc53-b3de5195c182" name="new_Controller_0" version="0" dateCreated="01/04/2018 13:12:24" dateLastModified="01/04/2018 13:42:27" trackingId="58f2aa3b-d92c-400d-9ccf-412f34b36878" DN="new_Controller_0" hash="bfa705877e3608ff487d5f1116381313">
+                  <Entity type="DeviceReference" subtype="InternalDevice" id="000e19bf-b261-475e-bc53-b3de5195c182" name="new_Controller_0" version="0" dateCreated="01/04/2018 13:12:24" dateLastModified="01/04/2018 14:21:51" trackingId="58f2aa3b-d92c-400d-9ccf-412f34b36878" DN="new_Controller_0" hash="7ab68c70be58abc1f7a0f706802486c0">
                     <AccessInfos />
                     <ChildEntities>
                       <Entity type="DataType" subtype="" id="5dd43e66-6158-493e-a621-95753701ed2e" name="Data Types0" version="0" dateCreated="01/04/2018 13:12:24" dateLastModified="01/04/2018 13:12:24" trackingId="6d2a9336-55cc-4419-a4b3-c3f7893daafe">
@@ -282,14 +282,14 @@
               </Entity>
             </ChildEntities>
           </Entity>
-          <Entity type="IOMap" subtype="" id="614792b9-3933-4889-88c0-2b9b66286e8a" name="Variable Mapping" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:12:23" trackingId="ca27a505-9ded-4a9a-8526-78b20f50db69" DN="Variable Mapping">
+          <Entity type="IOMap" subtype="" id="614792b9-3933-4889-88c0-2b9b66286e8a" name="Variable Mapping" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 14:21:51" trackingId="ca27a505-9ded-4a9a-8526-78b20f50db69" DN="Variable Mapping" hash="71bd8ae7945d1c2d1a35a6350021c7d3">
             <AccessInfos />
             <ChildEntities />
           </Entity>
           <Entity type="HmiPagesGroup" subtype="MainPagesGroup" id="a6e222f3-0d58-4b64-97dd-356cda3e4f23" name="Pages" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="ecb87beb-20b2-41a4-9b5e-2665c728b7eb" DN="Pages">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="HmiPage" subtype="GraphicalPage" id="cb08eb04-82f7-4370-a712-c5d03450f27f" name="Page0" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="41e9f718-ce71-45ae-ac3c-e5a417a67592" hash="3d7df7573de14eaac6ea21c3f7cdd30c">
+              <Entity type="HmiPage" subtype="GraphicalPage" id="cb08eb04-82f7-4370-a712-c5d03450f27f" name="Page0" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 14:21:51" trackingId="41e9f718-ce71-45ae-ac3c-e5a417a67592" hash="680bae92099695d0694c90908b432f12">
                 <AccessInfos />
                 <ChildEntities>
                   <Entity type="HmiPage" subtype="VisualBasicPage" id="017766df-3ff1-4f94-a3e9-52f9826af297" name="Page.vb" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:12:23" trackingId="471f5fbd-fde6-44fc-a7d1-9c2f69b7c738">
@@ -362,7 +362,7 @@
                   </Entity>
                 </ChildEntities>
               </Entity>
-              <Entity type="Variables" subtype="MemoryVariables" id="7ef44ced-3012-448b-bf75-66cbf4f41459" name="Global Variables" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="937a0ff9-f25d-4975-9f43-9d79d3091858" DN="Global Variables" hash="1e3965d5fa2aa39a5ed5f18562b9aabb">
+              <Entity type="Variables" subtype="MemoryVariables" id="7ef44ced-3012-448b-bf75-66cbf4f41459" name="Global Variables" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 14:21:51" trackingId="937a0ff9-f25d-4975-9f43-9d79d3091858" DN="Global Variables" hash="8f99f41f153fa99158f89bc4ca9aa430">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
@@ -388,7 +388,7 @@
           <Entity type="ResourceGroup" subtype="" id="31335318-4f25-41d1-91d4-bb681df6862d" name="Resources" version="0" dateCreated="01/04/2018 13:12:23" dateLastModified="01/04/2018 13:13:17" trackingId="b432412a-eaa9-484c-9695-c44c6d3c9bfb" DN="Resources">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="LocalisationResources" subtype="" id="2c550f29-5a9f-4aec-a367-03c3ea8c9ba4" name="Root" version="0" dateCreated="01/04/2018 13:12:24" dateLastModified="01/04/2018 13:13:17" trackingId="c327b5d0-73e4-4650-a1eb-370272bb8f7e" DN="Root" hash="b07cced617ebabf42fe40a5a89a5f28c">
+              <Entity type="LocalisationResources" subtype="" id="2c550f29-5a9f-4aec-a367-03c3ea8c9ba4" name="Root" version="0" dateCreated="01/04/2018 13:12:24" dateLastModified="01/04/2018 14:21:51" trackingId="c327b5d0-73e4-4650-a1eb-370272bb8f7e" DN="Root" hash="6325dc1f8662bf3d06643c0866a7d909">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
