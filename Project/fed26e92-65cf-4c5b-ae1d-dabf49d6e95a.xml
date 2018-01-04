@@ -4,3 +4,4 @@ _EN=Variables
 ++D=BOOL	N=IP1	G=VAR
 ++D=BOOL	N=OP1	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
+++D=BOOL	N=IP2	G=VAR_EXTERNAL

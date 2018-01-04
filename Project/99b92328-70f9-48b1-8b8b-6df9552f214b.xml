@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"LD","Var":"IP1"},{"__type":"ST","Ix":1,"Var":"OP1","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"IP1"},{"__type":"LD","Ix":1,"Var":"IP2","X":1},{"__type":"ST","Ix":2,"Var":"OP1","X":2}],"LRI":3,"RRI":4,"VLs":[]}
