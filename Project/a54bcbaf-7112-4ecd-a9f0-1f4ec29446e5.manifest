@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="GITTest2" id="a54bcbaf-7112-4ecd-a9f0-1f4ec29446e5" trackingId="9fbc998f-7920-47f1-8d5e-d5d5dcce77c4" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-7W001☐Version:1.08" />
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="SetUnit NJ501-1500 Ver. 1.16" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>
